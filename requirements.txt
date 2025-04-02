@@ -20,8 +20,8 @@ altair==5.0.1
 #anaconda-navigator==2.6.5
 #anaconda-project==0.11.1
 annotated-types==0.6.0
-anyio==4.6.2
-aom==3.9.1
+#anyio==4.6.2
+#aom==3.9.1
 appdirs==1.4.4
 applaunchservices==0.3.0
 appnope==0.1.3
