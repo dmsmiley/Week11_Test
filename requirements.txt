@@ -39,7 +39,7 @@ asyncssh==2.17.0
 atomicwrites==1.4.0
 attrs==24.3.0
 automat==20.2.0
-autopep8==2.0.4
+#autopep8==2.0.4
 aws-c-auth==0.7.22
 aws-c-cal==0.7.1
 aws-c-common==0.9.23
