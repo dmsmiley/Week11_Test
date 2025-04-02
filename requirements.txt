@@ -1,9 +1,3 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: osx-arm64
-# created-by: conda 25.3.0
-_anaconda_depends=2025.03=py312_openblas_0
-_py-xgboost-mutex=2.0=cpu_0
 addict=2.4.0=pypi_0
 aiobotocore=2.19.0=py312hca03da5_0
 aiohappyeyeballs=2.4.4=py312hca03da5_0
